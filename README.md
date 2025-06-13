@@ -5,6 +5,7 @@ This repository hosts comprehensive learning materials and interactive resources
 
 ## Content
 The content is organized by week as follows:
+
 Week 1: Modelling of Dynamic Systems — Introduction to modeling techniques for various dynamic systems.
 
 Week 2: Linear Systems, State Space, Block Diagram & Stability — Study of linear system representations, state-space models, and stability analysis.

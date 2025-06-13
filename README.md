@@ -1,7 +1,9 @@
-# EMS507U - Control-systems
+# [EMS507U - Control-systems]
+## Introduction
 Control Systems are frameworks designed to manage, regulate, and guide the behavior of dynamic systems to achieve desired outputs. They use feedback and control actions to maintain stability, improve performance, and respond to changes in the environment or system inputs.
 This repository hosts comprehensive learning materials and interactive resources for the EMS507U Control Systems module. It is designed to support students in understanding and applying fundamental concepts of control systems through practical examples, simulations, and an interactive workbook.
 
+## Content
 The content is organized by week as follows:
 Week 1: Modelling of Dynamic Systems — Introduction to modeling techniques for various dynamic systems.
 

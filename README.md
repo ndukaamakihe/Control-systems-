@@ -25,3 +25,10 @@ Week 9: State Space Model — Advanced concepts in state-space representation an
 Week 10: Stability in State-Space & Controllability — Analysis of stability and controllability in state-space systems.
 
 Week 11: Observability & Canonical Forms — Examination of system observability and canonical state-space forms.
+
+## Supervisor 
+- [Yunpeng Zhu](https://www.sems.qmul.ac.uk/staff/y.zhu)
+
+## QMUL Student Contributors:
+- [Nduka Amakihe](https://github.com/ndukaamakihe)
+- [Fatima Rashad]

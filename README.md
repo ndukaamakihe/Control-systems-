@@ -32,3 +32,6 @@ Week 11: Observability & Canonical Forms — Examination of system observability
 ## QMUL Student Contributors:
 - [Nduka Amakihe](https://github.com/ndukaamakihe)
 - [Fatima Rashad](https://github.com/fatima6266)
+- Wasim
+- Omar
+- Abner 

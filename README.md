@@ -12,7 +12,7 @@ Week 2: Linear Systems, State Space, Block Diagram & Stability — Study of line
 
 Week 3: System Stability — Detailed exploration of system stability criteria and methods.
 
-Week 4: PID Control — Fundamentals and implementation of Proportional-Integral-Derivative controllers.
+Week 4: PID Control (including lab + Simulink tutorials) — Fundamentals and implementation of Proportional-Integral-Derivative controllers.
 
 Week 5: Simple Linear Systems — Analysis and design of basic linear control systems.
 
